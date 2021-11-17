@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:car="http://www.projectsemweb/namespace#">
+	
+	<rdf:Description
+		rdf:about="https://www.ford.com/">
+		<dc:tittle>Ford</dc:tittle>
+		<car:compname>Ford Motor Company</car:compname>
+		<dc:coverage>United States</dc:coverage>
+		<car:compFouded>Henry Ford</car:compFouded>
+		<dc:date>1903</dc:date>
+		<dc:description>The company sells automobiles and commercial vehicles under the ford brand and luxury cars under its Lincoln luxury brand</dc:description>
+		<car:img>https://www.pngegg.com/vi/search?q=c%C3%B4ng+ty+%C3%B4+t%C3%B4+ford+c%E1%BB%A7a+Canada</car:img>
+	</rdf:Description>
+	
+	<rdf:Description
+		rdf:about="https://www.toyota.astra.co.id/">
+		<dc:tittle>Toyota</dc:tittle>
+		<car:compname>Totoya Motor Corperation</car:compname>
+		<dc:coverage>Japan</dc:coverage>
+		<car:compFouded>Kirochi Toyoda</car:compFouded>
+		<dc:date>1937</dc:date>
+		<dc:description>The company sells automobiles and commercial vehicles under the toyota brand,provides commercial services, and makes robots. It is the largest car manufacturing company in the world</dc:description>
+		<car:img>https://forza.fandom.com/wiki/Toyota?file=Toyota_Logo.png</car:img>
+	</rdf:Description>
+	
+	<rdf:Description
+		rdf:about="https://en.wikipedia.org/wiki/Chevrolet">
+		<dc:tittle>Chevrolet</dc:tittle>
+		<car:compname>Chevrolet Motor Company</car:compname>
+		<dc:coverage>United States</dc:coverage>
+		<car:compFouded>Arthur Chevrolet and Louis Chevrolet</car:compFouded>
+		<dc:date>1911</dc:date>
+		<dc:description>The Company produces and sells a wide range of vehicles, from subcompact automobiles to medium-duty commercial trucks</dc:description>
+		<car:img>https://curcol.co/wp-content/uploads/2016/05/logo_chevrolet.png</car:img>
+	</rdf:Description>
+	
+	<rdf:Description
+		rdf:about="https://id.wikipedia.org/wiki/Hyundai_Motor_Company">
+		<dc:tittle>Hyundai</dc:tittle>
+		<car:compname>Hyundai Motor Company</car:compname>
+		<dc:coverage>Korea</dc:coverage>
+		<car:compFouded>Chung Ju Yung</car:compFouded>
+		<dc:date>1967</dc:date>
+		<dc:description>The company operates the world's largest integrated car production facility in Ulsan, South Korea</dc:description>
+		<car:img>https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Hyundai_Motor_Company_logo.svg/1024px-Hyundai_Motor_Company_logo.svg.png</car:img>
+	</rdf:Description>
+	
+	<rdf:Description
+		rdf:about="https://id.wikipedia.org/wiki/Honda">
+		<dc:tittle>Honda</dc:tittle>
+		<car:compname>Honda Motor Company</car:compname>
+		<dc:coverage>Japan</dc:coverage>
+		<car:compFouded>Soichiro Honda</car:compFouded>
+		<dc:date>1937</dc:date>
+		<dc:description>a Japanese company that manufactures cars, trucks, motorcycles and scooters. They also make all-terrain vehicles (ATVs), electric generators, marine engines, and garden equipment</dc:description>
+		<car:img>https://rekreartive.com/wp-content/uploads/2019/04/Logo-Honda-Motor-Company-Mobile.jpg</car:img>
+	</rdf:Description>
+</rdf:RDF>
+	
